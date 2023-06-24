@@ -22,5 +22,8 @@ install the dependencies using pip:
     Note: Make sure that the data files are located in the same directory as the code file. 
         If the data files are located in a different directory, modify the paths in the code accordingly.
 
+## Collaporator
+Nouf alharthi
+
 ## usage 
 To train the Word Clustering using SOMs on dataset .
